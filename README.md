@@ -95,7 +95,7 @@ End-to-end evaluation of both CNN–ViT hybrid models.
 |---|---|
 | Frameworks | TensorFlow / Keras, PyTorch, torchvision |
 | Data | Satellite imagery dataset (IBM Cloud Object Storage) |
-| Evaluation | scikit-learn (metrics), matplotlib (visualization) |
+| Evaluation | Scikit-learn (metrics), matplotlib (visualization) |
 | Architecture | CNN, Vision Transformer (ViT), CNN–ViT Hybrid |
 | Environment | Jupyter Notebooks, IBM Skills Network Labs |
 
